@@ -1,3 +1,5 @@
+# README
+
 This is a simple Sinatra app used to scrape Pinterest with Nokogiri to display images of hairstyles, kittens and eye make up. 
 These are things I view often but you can change `@url` variables to scrape Pinterest pages for other things.
 
