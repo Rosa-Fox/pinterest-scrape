@@ -1,0 +1,25 @@
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline; 
+}
+
+h1{
+  text-align: center;
+}
+
+.thumbnail {
+  background-color: #FFD7FD;
+}
+
+body{
+  background-color: #FFF0FE;
+}
+
+.explanation{
+  text-align: center;
+}
